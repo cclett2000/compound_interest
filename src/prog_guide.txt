@@ -1,0 +1,22 @@
+***PROGRAMMERS GUIDE*** DUE TUESDAY 8/26
+1) Structure: (Loops, If Statements, Classes, Packages(ex: java.util.*))
+    ***KEYBOARD***
+    > Scanner (java.util.*)
+        - The scanner package was used so that when the user inputs data into the program it is stored and able
+          to be used later in calculation
+    ***FILE***
+    > Loop
+        - The loop used during the file input method was used to store the values found in the 'testing.txt'
+          file in an ArrayList. Reason being that the scanner used to read in the file reads line by line and by
+          directing it to store the data in an ArrayList...continue
+
+
+
+2) What software did I use? JetBrain's IDEA
+        -Why? How was it used?
+        -Debugging, Running, Compiling, Java version
+
+***USER GUIDE***
+- if I can't explain how to run this I should punch myself in the balls
+- reference to line numbers
+- do this in word, need to provide screenshots
